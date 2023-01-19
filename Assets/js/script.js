@@ -16,7 +16,6 @@ $(".saveBtn").on("click", function (event) {
     var userInfo = $(this).prev().val();
     console.log(userInfo)
     localStorage.setItem($(this).prev().attr("id"), userInfo)
-
 });
 
 // Different colors for indication of past, present and future times
