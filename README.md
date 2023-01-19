@@ -6,7 +6,7 @@ The purpose of this exercise is to build a work day planner based on standard bu
 
 ### Screenshot:
 
-![Deployed Website](animation.gif)
+![Deployed Website](./animation.gif)
 
 ### Links:
 
