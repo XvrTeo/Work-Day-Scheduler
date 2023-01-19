@@ -4,10 +4,12 @@ var today = moment().format('LLL');
 $("#currentDay").text(today);
 
 // Displaying current time
+
 var localTime = moment().format('HH');
 console.log(localTime)
 
 // Saving to local storage
+
 $(".saveBtn").on("click", function (event) {
     event.preventDefault();
 
@@ -17,7 +19,8 @@ $(".saveBtn").on("click", function (event) {
 
 });
 
-// Different colors for past, present and future times
+// Different colors for indication of past, present and future times
+
    $("input").each(function () {
         var selectedInput = parseInt($(this).attr("id"));
 

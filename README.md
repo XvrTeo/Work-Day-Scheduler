@@ -10,6 +10,6 @@ The purpose of this exercise is to build a work day planner based on standard bu
 
 ### Links:
 
-https://xvrteo.github.io/???/
+https://xvrteo.github.io/Work-Day-Scheduler/
 
 https://github.com/XvrTeo/Work-Day-Scheduler
